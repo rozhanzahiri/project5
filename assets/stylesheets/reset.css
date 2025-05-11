@@ -1,0 +1,22 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+lst{
+    list-style-type: none;
+}
+body{
+    font-size: 100%;
+    text-transform: uppercase;
+    font-family: "Tinos", serif;
+}
+
+*,::after,::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
